@@ -75,11 +75,11 @@ main {
   font-size: 16px;
   color: black;
   line-height: 24px;
-  font-weight: 500;
 }
 
 .weather-app-details strong {
   color: #f1326c;
+  font-weight: normal;
 }
 
 .weather-app-temperature-container {
